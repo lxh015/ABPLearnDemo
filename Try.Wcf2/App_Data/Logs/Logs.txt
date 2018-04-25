@@ -1,0 +1,785 @@
+DEBUG 2018-04-25 10:55:29,987 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 10:55:30,009 [1    ] Abp.Modules.AbpModuleManager             - Found 7 ABP modules in total.
+DEBUG 2018-04-25 10:55:30,014 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,016 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,016 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,022 [1    ] Abp.Modules.AbpModuleManager             - 7 modules loaded.
+DEBUG 2018-04-25 10:55:30,334 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:55:30,582 [1    ] Abp.Localization.LocalizationManager     - Initializing 1 localization sources.
+DEBUG 2018-04-25 10:55:30,592 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 10:55:30,857 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 10:55:30,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 10:56:21,642 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 10:56:21,659 [1    ] Abp.Modules.AbpModuleManager             - Found 7 ABP modules in total.
+DEBUG 2018-04-25 10:56:21,663 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,665 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,665 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,666 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,666 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,666 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,666 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,669 [1    ] Abp.Modules.AbpModuleManager             - 7 modules loaded.
+DEBUG 2018-04-25 10:56:21,878 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:56:21,971 [1    ] Abp.Localization.LocalizationManager     - Initializing 1 localization sources.
+DEBUG 2018-04-25 10:56:21,980 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 10:56:22,185 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 10:56:22,248 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 10:59:31,278 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 10:59:31,439 [1    ] Abp.Modules.AbpModuleManager             - Found 7 ABP modules in total.
+DEBUG 2018-04-25 10:59:31,446 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:31,449 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:31,449 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:31,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:31,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:31,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:31,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:31,454 [1    ] Abp.Modules.AbpModuleManager             - 7 modules loaded.
+DEBUG 2018-04-25 10:59:31,973 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 10:59:32,138 [1    ] Abp.Localization.LocalizationManager     - Initializing 1 localization sources.
+DEBUG 2018-04-25 10:59:32,150 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 10:59:32,377 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 10:59:32,455 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:05:02,358 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:05:02,385 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:05:02,391 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,394 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,394 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,395 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,395 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,395 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,395 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,395 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,396 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,398 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,402 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:05:02,688 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:05:02,847 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:05:02,857 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:05:02,859 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:05:03,091 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:05:03,164 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 11:05:03,705 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 11:05:03,721 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 11:20:08,199 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:20:08,227 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:20:08,281 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,291 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:20:08,577 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:20:08,799 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:20:08,810 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:20:08,812 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:20:09,056 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:20:09,174 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:22:21,640 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:22:21,850 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:22:21,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,857 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,858 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,858 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,858 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,858 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,859 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,859 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,859 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,859 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:21,862 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:22:22,438 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:22:53,947 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:22:53,956 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:22:53,958 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:22:54,187 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:22:54,258 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:24:55,357 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:24:55,375 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:24:55,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,382 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,382 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,382 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,382 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,382 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,383 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,383 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,384 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,384 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:24:55,387 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:24:55,636 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:01,328 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:25:01,338 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:25:01,340 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:25:01,563 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:25:01,641 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 11:25:01,962 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 11:25:01,977 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 11:25:39,917 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:25:40,173 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:25:40,181 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,188 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,188 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,190 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,192 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,193 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,193 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:40,199 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:25:40,860 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:25:41,047 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:25:41,055 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:25:41,057 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:25:41,330 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:25:41,416 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:27:05,163 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:27:05,181 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:27:05,187 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,188 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,188 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,189 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,189 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,189 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,189 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,189 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,190 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,190 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,194 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:27:05,441 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:27:05,589 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:27:05,601 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:27:05,603 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:27:05,832 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:27:05,914 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:28:12,516 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:28:12,540 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:28:12,545 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,552 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:28:12,804 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:28:12,933 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:28:12,945 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:28:12,950 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:28:13,162 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:28:13,255 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:29:33,917 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:29:33,934 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:29:33,939 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,942 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,943 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,944 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,944 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,944 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,944 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,944 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,945 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:33,948 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:29:34,175 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:29:34,335 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:29:34,345 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:29:34,347 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:29:34,549 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:29:34,623 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:34:45,797 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:34:45,992 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:34:45,998 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,000 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,000 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,001 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,001 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,001 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,001 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,002 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,002 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,002 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,006 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:34:46,528 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:34:46,716 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:34:46,731 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:34:46,733 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:34:46,957 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:34:47,027 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:37:46,102 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:37:46,275 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:37:46,281 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:46,294 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:37:46,802 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:37:47,014 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:37:47,024 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:37:47,026 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:37:47,249 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:37:47,314 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 11:37:47,625 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 11:37:47,635 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 11:38:00,635 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:38:00,838 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:38:00,850 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:00,857 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:38:01,379 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:38:01,560 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:38:01,570 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:38:01,572 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:38:01,790 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:38:01,868 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:39:44,796 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:39:44,814 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:39:44,818 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,821 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,821 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,823 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:44,826 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:39:45,051 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:39:45,202 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:39:45,220 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:39:45,222 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:39:45,414 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:39:45,479 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:46:14,256 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:46:14,274 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:46:14,279 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,281 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,282 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,282 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,282 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,282 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,282 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,283 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,283 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,283 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,288 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:46:14,526 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:46:14,669 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:46:14,680 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:46:14,682 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:46:14,877 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:46:14,940 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 11:56:29,672 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 11:56:29,692 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 11:56:29,697 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,700 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,701 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,701 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,703 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:29,705 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 11:56:29,946 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 11:56:30,101 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 11:56:30,110 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 11:56:30,112 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 11:56:30,322 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 11:56:30,387 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 12:25:20,731 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 12:25:20,749 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 12:25:20,753 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,756 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,758 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,758 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,758 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:20,761 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 12:25:21,011 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,644 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 12:25:51,667 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 12:25:51,671 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,673 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,673 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,674 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,674 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,674 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,674 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,674 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,675 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,675 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:51,678 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 12:25:51,944 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:25:52,079 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 12:25:52,090 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 12:25:52,093 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 12:25:52,313 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 12:25:52,386 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 12:32:32,210 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 12:32:32,235 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 12:32:32,244 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:32:32,251 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 12:37:26,688 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 12:37:26,707 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 12:37:26,713 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,715 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,715 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,715 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,715 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,716 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,716 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,716 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,716 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,716 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:37:26,719 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 12:38:29,560 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 12:38:29,581 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 12:38:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,603 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,603 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,604 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,604 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,604 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,605 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,605 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,605 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,606 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:29,609 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 12:38:29,852 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:38:30,068 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 12:38:30,080 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 12:38:30,082 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 12:38:30,307 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 12:38:30,375 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 12:51:39,497 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 12:51:39,523 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 12:51:39,528 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,531 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,531 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,533 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,536 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 12:51:39,784 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:51:39,930 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 12:51:39,938 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 12:51:39,940 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 12:51:40,156 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 12:51:40,222 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 12:52:41,154 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 12:52:41,178 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 12:52:41,194 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,198 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,198 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,199 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,199 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,199 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,199 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,199 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,199 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,200 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,202 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 12:52:41,448 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 12:52:41,589 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 12:52:41,599 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 12:52:41,602 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 12:52:41,820 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 12:52:41,888 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 13:23:26,711 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 13:23:26,731 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 13:23:26,740 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,742 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,742 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,744 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:26,746 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 13:23:27,009 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:23:27,179 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 13:23:27,196 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 13:23:27,198 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 13:23:27,409 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 13:23:27,490 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 13:27:15,430 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 13:27:15,458 [1    ] Abp.Modules.AbpModuleManager             - Found 7 ABP modules in total.
+DEBUG 2018-04-25 13:27:15,474 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,477 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,477 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,478 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,478 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,478 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,478 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,482 [1    ] Abp.Modules.AbpModuleManager             - 7 modules loaded.
+DEBUG 2018-04-25 13:27:15,732 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:27:15,878 [1    ] Abp.Localization.LocalizationManager     - Initializing 1 localization sources.
+DEBUG 2018-04-25 13:27:15,890 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 13:27:16,123 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 13:27:16,197 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 13:28:55,811 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 13:28:55,832 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 13:28:55,839 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,842 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,842 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,843 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,843 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,843 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,843 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,843 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,844 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,844 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:55,848 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 13:28:56,139 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:28:56,268 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 13:28:56,278 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 13:28:56,281 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 13:28:56,505 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 13:28:56,609 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 13:29:35,936 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 13:29:36,160 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 13:29:36,170 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,172 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,172 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,173 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,173 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,173 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,173 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,174 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,174 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,174 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,178 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 13:29:36,710 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 13:29:36,866 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 13:29:36,874 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 13:29:36,876 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 13:29:37,108 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 13:29:37,201 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 13:29:37,509 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 13:29:37,521 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 14:11:06,945 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 14:11:06,963 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 14:11:06,989 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,991 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,991 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,992 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,992 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,992 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,992 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,993 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,993 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,993 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:06,996 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 14:11:07,234 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:07,360 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 14:11:07,376 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 14:11:07,383 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 14:11:07,594 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 14:11:07,683 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 14:11:50,081 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 14:11:50,288 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 14:11:50,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,296 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,296 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,296 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,296 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,296 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,297 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,300 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 14:11:50,816 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:11:50,989 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 14:11:50,997 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 14:11:50,999 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 14:11:51,221 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 14:11:51,303 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 14:11:51,603 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 14:11:51,612 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 14:13:22,857 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 14:13:22,876 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 14:13:22,882 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,884 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,884 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,884 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,885 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:22,888 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 14:13:23,128 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:13:23,261 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 14:13:23,269 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 14:13:23,272 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 14:13:23,471 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 14:13:23,549 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 14:13:23,842 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 14:13:23,853 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 14:18:39,519 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 14:18:39,539 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 14:18:39,555 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,560 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,563 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 14:18:39,825 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:18:39,959 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 14:18:39,968 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 14:18:39,970 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 14:18:40,193 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 14:18:40,287 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 14:19:20,174 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 14:19:20,440 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 14:19:20,446 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,452 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,452 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:20,455 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 14:19:20,963 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:19:21,126 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 14:19:21,137 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 14:19:21,139 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 14:19:21,364 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 14:19:21,436 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 14:19:21,903 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 14:19:21,920 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 14:29:57,293 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 14:29:57,547 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 14:29:57,553 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,555 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:57,560 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 14:29:58,149 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:29:58,365 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 14:29:58,376 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 14:29:58,378 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 14:29:58,655 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 14:29:58,724 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 14:29:59,033 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 14:29:59,046 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 14:32:36,915 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 14:32:36,940 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 14:32:36,948 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,951 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:36,955 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 14:32:37,222 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 14:32:37,351 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 14:32:37,429 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 14:32:37,431 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 14:32:37,637 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 14:32:37,709 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 14:32:37,964 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 14:32:37,973 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 15:05:03,432 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 15:05:03,449 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 15:05:03,453 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,456 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,456 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,456 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,456 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,456 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,457 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,457 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,461 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 15:05:03,689 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:03,872 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 15:05:03,886 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 15:05:03,888 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 15:05:04,112 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 15:05:04,205 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 15:05:21,886 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 15:05:22,100 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 15:05:22,105 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,107 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,108 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,108 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,108 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,108 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,109 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,109 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,109 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,109 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,112 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 15:05:22,621 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:05:22,794 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 15:05:22,806 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 15:05:22,809 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 15:05:23,025 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 15:05:23,103 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 15:05:23,426 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 15:05:23,436 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 15:13:31,515 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 15:13:31,533 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 15:13:31,545 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,551 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 15:13:31,787 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:13:31,917 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 15:13:31,926 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 15:13:31,927 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 15:13:32,150 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 15:13:32,233 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 15:13:32,491 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 15:13:32,502 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-04-25 15:16:12,831 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 15:16:12,848 [1    ] Abp.Modules.AbpModuleManager             - Found 7 ABP modules in total.
+DEBUG 2018-04-25 15:16:12,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:12,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:12,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:12,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:12,856 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:12,856 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:12,856 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:12,859 [1    ] Abp.Modules.AbpModuleManager             - 7 modules loaded.
+DEBUG 2018-04-25 15:16:13,060 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:16:13,177 [1    ] Abp.Localization.LocalizationManager     - Initializing 1 localization sources.
+DEBUG 2018-04-25 15:16:13,190 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 15:16:13,391 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 15:16:13,457 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 15:19:45,916 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 15:19:45,933 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 15:19:45,937 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,939 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,939 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:45,945 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 15:19:46,276 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:19:46,485 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 15:19:46,495 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 15:19:46,497 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 15:19:46,717 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 15:19:46,792 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 15:20:02,189 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 15:20:02,436 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 15:20:02,445 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,448 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,448 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,449 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,449 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,450 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,451 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:02,455 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 15:20:03,152 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:03,346 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 15:20:03,361 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 15:20:03,363 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 15:20:03,625 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 15:20:03,708 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-04-25 15:20:13,870 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-04-25 15:20:14,072 [1    ] Abp.Modules.AbpModuleManager             - Found 10 ABP modules in total.
+DEBUG 2018-04-25 15:20:14,078 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryWcfModule, Try.Wcf2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,081 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryApplicationModule, Try.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,081 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryCoreModule, Try.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,081 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,082 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,084 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Try.TryDataModule, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,085 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,085 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,086 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,086 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,089 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2018-04-25 15:20:14,698 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Try.EntityFramework.TryDbContext, Try.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-04-25 15:20:14,863 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2018-04-25 15:20:14,873 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-04-25 15:20:14,875 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-04-25 15:20:15,123 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-04-25 15:20:15,195 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+WARN  2018-04-25 15:20:15,468 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-04-25 15:20:15,478 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.

@@ -1,0 +1,5 @@
+﻿1.Castle.Core版本因为3.3.0.0
+2.在.Svc文件里应加入
+	Service="StudentService"
+    Factory="Castle.Facilities.WcfIntegration.DefaultServiceHostFactory,Castle.Facilities.WcfIntegration"
+这两个标签
