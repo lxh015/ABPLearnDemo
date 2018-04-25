@@ -42,13 +42,13 @@ namespace Try
                 MaxReceivedMessageSize = 2147483647,
             };
 
-            //IocManager.IocContainer.Register
-            //    (
-            //         Component.For<IStudentService>()
-            //         .ImplementedBy<StudentService>()
-            //         .Named("StudentService")
-            //         .AsWcfService(new DefaultServiceModel().AddEndpoints(WcfEndpoint.BoundTo(basicHttpBinding)).Hosted().PublishMetadata())
-            //    );
+            IocManager.IocContainer.Register
+                (
+                     Component.For<IStudentService>()
+                     .ImplementedBy<StudentService>()
+                     .Named("StudentService")
+                     .AsWcfService(new DefaultServiceModel().AddEndpoints(WcfEndpoint.BoundTo(basicHttpBinding)).Hosted().PublishMetadata())
+                );
 
             var factory = new WindsorServiceHostFactory<Castle.Facilities.WcfIntegration.Rest.RestServiceModel>(IocManager.IocContainer.Kernel);
         }
