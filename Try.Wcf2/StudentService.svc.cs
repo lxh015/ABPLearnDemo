@@ -23,7 +23,7 @@ namespace Try.Wcf2
             // _iocResolver = iocResolver;
         }
 
-        public List<Student> GetTest()
+        public List<Service.Application.Dto.Students.StudentDto> GetTest()
         {
             return _studentAppService.GetStudentsByAge(null).ToList();
         }

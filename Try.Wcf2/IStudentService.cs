@@ -15,6 +15,6 @@ namespace Try.Wcf2
         long InsertTest();
 
         [OperationContract]
-        List<Core.Student.Student> GetTest();
+        List<Service.Application.Dto.Students.StudentDto> GetTest();
     }
 }

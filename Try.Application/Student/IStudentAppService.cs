@@ -9,8 +9,8 @@ namespace Try.Application.Student
 {
     public interface IStudentAppService: IApplicationService
     {
-        IList<Core.Student.Student> GetStudentsByAge(int? age);
+        IList<Service.Application.Dto.Students.StudentDto> GetStudentsByAge(int? age);
 
-        Core.Student.Student InsertNew(Core.Student.Student student);
+        Service.Application.Dto.Students.StudentDto InsertNew(Core.Student.Student student);
     }
 }

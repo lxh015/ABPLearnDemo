@@ -1,5 +1,6 @@
 ﻿using Abp.Application.Services;
 using Abp.Domain.Repositories;
+using AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,19 +19,19 @@ namespace Try.Application.Student
             _studentRepository = studentRepository;
         }
 
-        public IList<Core.Student.Student> GetStudentsByAge(int? age)
+        public IList<Service.Application.Dto.Students.StudentDto> GetStudentsByAge(int? age)
         {
             var tmp = age.HasValue ?
                   _studentRepository.GetAll().Where(p => p.Age == age.Value).ToList()
                   : _studentRepository.GetAll().ToList();
 
             Console.WriteLine(tmp.Count);
-            return tmp;
+            return Mapper.Map<List<Service.Application.Dto.Students.StudentDto>>(tmp);
         }
 
-        public Core.Student.Student InsertNew(Core.Student.Student student)
+        public Service.Application.Dto.Students.StudentDto InsertNew(Core.Student.Student student)
         {
-            return _studentRepository.Insert(student);
+            return Mapper.Map<Service.Application.Dto.Students.StudentDto>(_studentRepository.Insert(student));
         }
     }
 }

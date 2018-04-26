@@ -98,6 +98,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoMapperConfig\StudentProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student\IStudentAppService.cs" />
     <Compile Include="Student\StudentAppService.cs" />
@@ -109,6 +110,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\TryClient\Try.Service.Application.Dto\Try.Service.Application.Dto.csproj">
+      <Project>{2b236f9c-0085-4b11-8f80-fd8529872bd3}</Project>
+      <Name>Try.Service.Application.Dto</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Try.Core\Try.Core.csproj">
       <Project>{440c505f-edab-4e32-98dd-25e280be87e4}</Project>
       <Name>Try.Core</Name>
