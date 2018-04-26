@@ -14,4 +14,4 @@
 
 6.IOC 入门http://www.cnblogs.com/leoo2sk/archive/2009/06/17/1504693.html；深入https://kb.cnblogs.com/page/45266/；AutoFac：https://www.cnblogs.com/zjoch/p/6485170.html
 
-7.Wcf 避坑：http://www.cnblogs.com/FlyStupidBird/p/8945424.html
+
